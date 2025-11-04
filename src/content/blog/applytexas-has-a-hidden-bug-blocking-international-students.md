@@ -1,5 +1,5 @@
 ---
-title: A complete list of National Level Olympiads in Bangladesh
+title: ApplyTexas Has a Hidden Bug Blocking International Students
 author: Sanjib Kumar Sen
 featured: true
 draft: false
