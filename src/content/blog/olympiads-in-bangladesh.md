@@ -21,7 +21,7 @@ Note that out of these 22 Olympiads 2 of them (Bangla & ICT) don't have any inte
 | Bangladesh Junior Science Olympiad (BDJSO) | 4          | Grade 3-12        | Around July      | [www.bdjso.org](http://www.bdjso.org)                      |
 | Bangladesh Astro Olympiad (BdAO)           | 2          | Grade 8-12        | Around June      | Event Link: <https://fb.me/e/2q8brbO0D>                    |
 | Bangladesh Biology Olympiad (BdB0)         | 4          | Grade 3-12        | Around January   | [www.bdbo.org](http://www.bdbo.org)                        |
-| Bangladesh Physics Olympiad (BdPhO)        | 3          | Grade 6-12        | Around January   | [www.bdpgo.org](www.bdpgo.org)                             |
+| Bangladesh Physics Olympiad (BdPhO)        | 3          | Grade 6-12        | Around January   | [www.bdpho.org](www.bdpho.org)                             |
 | Bangladesh Robot Olympiad (BdRO)           | 2          | Age 7-18          | Segments: 5      | Around July                                                |
 | Bangladesh Math Olympiad (BdMO)            | 4          | Grade 3-12        | Around January   | [www.matholympiad.org.bd](https://www.matholympiad.org.bd) |
 | IQ Olympiad                                | 12         | Grade 1-12        | Around July      | Event Link: <https://fb.me/e/2naEJVwzy>                    |
